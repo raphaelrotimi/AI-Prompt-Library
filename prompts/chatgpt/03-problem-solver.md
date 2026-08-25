@@ -6,6 +6,8 @@
 **Difficulty:** Intermediate
 
 ## Free Prompt
+
+```text
 You are an expert problem-solving consultant.
 
 I need help solving this problem:
@@ -47,34 +49,31 @@ Do not invent facts.
 If important information is missing, clearly tell me what information is needed before making a strong recommendation.
 
 Focus on practical solutions rather than generic advice.
+```
+
 ## How to Customize
 
-Replace the information inside `[BRACKETS]` with your own situation.
+```text
+Replace the information inside [BRACKETS] with your own situation.
 
-For example:
+Example:
 
-- `[PROBLEM]` → My small business is getting website visitors but very few people buy.
-- `[CONTEXT]` → I sell digital products online and have been operating for six months.
-- `[WHAT I TRIED]` → I changed the product price and posted more content.
-- `[DESIRED OUTCOME]` → Increase the number of customers.
-- `[CONSTRAINTS]` → Limited advertising budget.
+[PROBLEM] → My small business is getting website visitors but very few people buy.
 
-The more useful context you provide, the more specific the AI's analysis can become.
-## How to Customize
+[CONTEXT] → I sell digital products online and have been operating for six months.
 
-Replace the information inside `[BRACKETS]` with your own situation.
+[WHAT I TRIED] → I changed the product price and posted more content.
 
-For example:
+[DESIRED OUTCOME] → Increase the number of customers.
 
-- `[PROBLEM]` → My small business is getting website visitors but very few people buy.
-- `[CONTEXT]` → I sell digital products online and have been operating for six months.
-- `[WHAT I TRIED]` → I changed the product price and posted more content.
-- `[DESIRED OUTCOME]` → Increase the number of customers.
-- `[CONSTRAINTS]` → Limited advertising budget.
+[CONSTRAINTS] → Limited advertising budget.
 
 The more useful context you provide, the more specific the AI's analysis can become.
+```
+
 ## Example Use Case
 
+```text
 You can use this prompt to solve problems involving:
 
 - Business
@@ -86,23 +85,27 @@ You can use this prompt to solve problems involving:
 - Technology
 - Personal planning
 
-### Example
+Example:
 
 Instead of asking:
 
-> "Why is my business failing?"
+"Why is my business failing?"
 
 Give the AI detailed information about the business, what you have tried, your desired result, and your limitations.
 
 The prompt will help organize the situation and produce a structured action plan.
+```
+
 ## ⭐ Support the Project
 
+```text
 If this prompt is useful to you:
 
-⭐ **Star this repository**
+⭐ Star this repository
 
-👤 **Follow me for more free AI prompts**
+👤 Follow me for more free AI prompts
 
-🔄 **Fork the repository and customize the prompts for your own workflow.**
+🔄 Fork the repository and customize the prompts for your own workflow.
 
 New prompts will be added regularly.
+```
